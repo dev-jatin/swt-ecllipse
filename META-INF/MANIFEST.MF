@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Java-swt
+Bundle-SymbolicName: com.example.java-swt;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: EXAMPLE
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime;bundle-version="3.33.0"
+Automatic-Module-Name: com.example.java.swt
+Bundle-RequiredExecutionEnvironment: JavaSE-21
